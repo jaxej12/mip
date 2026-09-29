@@ -1,1 +1,1 @@
-zmena v read me lol
+zmena v read me lol , beta ?
