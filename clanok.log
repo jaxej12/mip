@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.22)  6 OCT 2026 16:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.22)  6 OCT 2026 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,13 +6,6 @@ entering extended mode
 (clanok.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
-
-(C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/coursepaper\coursepaper
-.cls
-Document Class: coursepaper 2003/08/19 v2.0
-(C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
 (C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -29,7 +22,7 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-))
+)
 (C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
@@ -258,49 +251,75 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
+(C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen156
+\captionmargin=\dimen157
+\caption@leftmargin=\dimen158
+\caption@rightmargin=\dimen159
+\caption@width=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count298
+\c@continuedfloat=\count299
+Package caption Info: hyperref package is loaded.
+)
+(C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count300
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count301
+)
 (C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
+\l__color_backend_stack_int=\count302
 ) (clanok.aux)
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 35.
+(babel)             Reported on input line 39.
 
 (C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen156
+\scratchcounter=\count303
+\scratchdimen=\dimen164
 \scratchbox=\box53
-\nofMPsegments=\count300
-\nofMParguments=\count301
+\nofMPsegments=\count304
+\nofMParguments=\count305
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen157
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen165
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks21
 )
 (C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -313,104 +332,111 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 39.
  (clanok.out) (clanok.out)
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
-LaTeX Font Info:    Trying to load font information for IL2+cmss on input line 
-38.
-
-(C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmss.fd
-File: il2cmss.fd 1997/02/13 CsLaTeX font definitions
-)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 38.
+(Font)              <17.28> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <12> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 42.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-38.
+42.
 
 (C:\Users\jaxej\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 42.
 <./images/oko.png, id=3, 513.92pt x 513.92pt>
 File: ./images/oko.png Graphic file (type png)
 <use ./images/oko.png>
-Package pdftex.def Info: ./images/oko.png  used on input line 43.
-(pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
+Package pdftex.def Info: ./images/oko.png  used on input line 51.
+(pdftex.def)             Requested size: 27.11986pt x 27.11685pt.
 <./images/Diagram.png, id=5, 501.875pt x 60.225pt>
 File: ./images/Diagram.png Graphic file (type png)
 <use ./images/Diagram.png>
-Package pdftex.def Info: ./images/Diagram.png  used on input line 44.
-(pdftex.def)             Requested size: 501.87376pt x 60.22484pt.
+Package pdftex.def Info: ./images/Diagram.png  used on input line 55.
+(pdftex.def)             Requested size: 90.39862pt x 10.84737pt.
+File: ./images/oko.png Graphic file (type png)
+<use ./images/oko.png>
+Package pdftex.def Info: ./images/oko.png  used on input line 61.
+(pdftex.def)             Requested size: 205.56435pt x 205.56435pt.
+File: ./images/Diagram.png Graphic file (type png)
+<use ./images/Diagram.png>
+Package pdftex.def Info: ./images/Diagram.png  used on input line 62.
+(pdftex.def)             Requested size: 451.68332pt x 54.20198pt.
 
-Overfull \hbox (58.61751pt too wide) in paragraph at lines 43--45
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
 [][]
  []
 
 
-Overfull \hbox (32.11877pt too wide) in paragraph at lines 43--45
+Overfull \hbox (230.68332pt too wide) in paragraph at lines 61--63
 [] 
  []
 
+(test.tex)
+Underfull \vbox (badness 1377) has occurred while \output is active []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
-
-{C:/Users/jaxej/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (test.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./images/oko.png> <./images/Diagram.png>]
-
-LaTeX Warning: Reference `nejaka' on page 3 undefined on input line 60.
+ [1{C:/Users/jaxej/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
-LaTeX Warning: Reference `dolezita' on page 3 undefined on input line 61.
+ <./images/oko.png> <./images/Diagram.png>]
+
+LaTeX Warning: Reference `nejaka' on page 2 undefined on input line 78.
 
 
-LaTeX Warning: Reference `dolezitejsia' on page 3 undefined on input line 61.
+LaTeX Warning: Reference `dolezita' on page 2 undefined on input line 79.
 
 
-LaTeX Warning: Reference `zaver' on page 3 undefined on input line 62.
+LaTeX Warning: Reference `dolezitejsia' on page 2 undefined on input line 79.
 
 
-LaTeX Warning: Reference `f:rozhod' on page 3 undefined on input line 67.
+LaTeX Warning: Reference `zaver' on page 2 undefined on input line 80.
 
 
-LaTeX Warning: Reference `ina:nejake' on page 3 undefined on input line 81.
+LaTeX Warning: Reference `f:rozhod' on page 2 undefined on input line 85.
 
 
-LaTeX Warning: Reference `ina:nejake' on page 3 undefined on input line 81.
+LaTeX Warning: Reference `ina:nejake' on page 2 undefined on input line 99.
+
+
+LaTeX Warning: Reference `ina:nejake' on page 2 undefined on input line 99.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 81.
-[3]
+(Font)              <7> on input line 99.
 
-LaTeX Warning: Citation `Coplien:MPD' on page 4 undefined on input line 83.
-
-
-LaTeX Warning: Citation `Czarnecki:Staged' on page 4 undefined on input line 83
-.
+LaTeX Warning: Citation `Coplien:MPD' on page 2 undefined on input line 101.
 
 
-LaTeX Warning: Citation `Czarnecki:Progress' on page 4 undefined on input line 
-83.
+LaTeX Warning: Citation `Czarnecki:Staged' on page 2 undefined on input line 10
+1.
 
 
-LaTeX Warning: Citation `PLP-Framework' on page 4 undefined on input line 83.
+LaTeX Warning: Citation `Czarnecki:Progress' on page 2 undefined on input line 
+101.
+
+
+LaTeX Warning: Citation `PLP-Framework' on page 2 undefined on input line 101.
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 132--133
+ []\IL2/cmr/bx/n/10 Veµmi dô-le-¾itá po-známka.[] \IL2/cmr/m/n/10 Nie-kedy je p
+o-
+ []
 
 No file clanok.bbl.
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 138.
-[4] (clanok.aux)
+(babel)             Reported on input line 156.
+[2] [3] (clanok.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -429,40 +455,38 @@ Package rerunfilecheck Warning: File `clanok.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `clanok.out':
 (rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  1347EF58160C0B2562F400610E259E0F;1149.
+(rerunfilecheck)             After:  A9D0262BBE3CE581566DACC01C9959E4;1045.
  ) 
 Here is how much of TeX's memory you used:
- 10366 strings out of 467871
- 164125 string characters out of 5418376
- 584791 words of memory out of 5000000
- 39094 multiletter control sequences out of 15000+600000
- 641517 words of font info for 72 fonts, out of 8000000 for 9000
+ 11659 strings out of 467871
+ 189315 string characters out of 5418376
+ 613404 words of memory out of 5000000
+ 40392 multiletter control sequences out of 15000+600000
+ 640482 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1346b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1346b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
-sr6.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
-\tcrm1000.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfon
-ts/dpi600\csti10.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/publi
-c/csfonts/dpi600\csr7.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/
-public/csfonts/dpi600\cssl10.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/
-ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fo
+stt10.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
+pi600\csr6.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1000.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/publi
+c/csfonts/dpi600\csbx12.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/public/csfonts/dpi600\csti10.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/p
+k/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fo
 nts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\jaxej\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\jaxej\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\jaxej\App
-Data\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\jaxe
-j\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\User
-s\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:
-\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.p
-k> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
-sss10.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
-pi600\cstt9.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\csss9.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/publ
-ic/csfonts/dpi600\csss12.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/p
-k/ljfour/public/csfonts/dpi600\csss17.pk>
-Output written on clanok.pdf (4 pages, 121144 bytes).
+KTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\jaxej\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\jaxej\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\jaxe
+j\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\User
+s\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <
+C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9
+.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600
+\csr9.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
+pi600\csr12.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1200.pk> <C:\Users\jaxej\AppData\Local\MiKTeX\fonts/pk/ljfour/publ
+ic/csfonts/dpi600\csr17.pk>
+Output written on clanok.pdf (3 pages, 118503 bytes).
 PDF statistics:
- 422 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 397 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

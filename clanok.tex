@@ -1,8 +1,8 @@
 % Metódy inžinierskej práce
 
-\documentclass[10pt,twoside,slovak,a4paper]{coursepaper}
+%\documentclass[10pt,twoside,slovak,a4paper]{coursepaper}
 
-
+ \documentclass[10pt,twocolumn,twoside,slovak,a4paper]{article}
 
 \usepackage[slovak]{babel}
 %\usepackage[T1]{fontenc}
@@ -13,6 +13,10 @@
 \usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
 
 \usepackage{cite}
+
+\usepackage{caption}
+\usepackage{subcaption}
+
 %\usepackage{times}
 \graphicspath{ {./images/} }
 \pagestyle{headings}
@@ -40,8 +44,22 @@
 \ldots
 \end{abstract}
 
-\includegraphics{oko}
-\includegraphics{Diagram}
+\begin{figure}
+	\centering
+	\begin{subfigure}[b]{0.2\textwidth}
+         		\centering
+         		\includegraphics[width=0.3\textwidth]{oko}
+	\end{subfigure}
+\begin{subfigure}[b]{0.2\textwidth}
+         		\centering
+         		\includegraphics[width=\textwidth]{Diagram}
+	\end{subfigure}
+\end{figure}
+
+
+
+\includegraphics[scale=0.4]{oko}
+\includegraphics[scale=0.9]{Diagram}
 
 \section{utug}
 
