@@ -17,6 +17,11 @@
 \usepackage{caption}
 \usepackage{subcaption}
 
+\usepackage{wrapfig}
+
+
+\usepackage{amsmath}
+
 %\usepackage{times}
 \graphicspath{ {./images/} }
 \pagestyle{headings}
@@ -48,7 +53,8 @@
 	\centering
 	\begin{subfigure}[b]{0.2\textwidth}
          		\centering
-         		\includegraphics[width=0.3\textwidth]{oko}
+         		\includegraphics[width=0.3\textwidth, angle=45]{oko}
+
 	\end{subfigure}
 \begin{subfigure}[b]{0.2\textwidth}
          		\centering
@@ -62,11 +68,27 @@
 	\includegraphics[scale=0.9]{Diagram}
 \end{figure*}
 
+$$\begin{pmatrix}
+1 & 2 & 3 & 4 & 5\\
+1 & 2 & 3 & 4 & 5\\
+1 & 2 & 3 & 4 & 5\\
+1 & 2 & 3 & 4 & 5\\
+1 & 2 & 3 & 4 & 5
+\end{pmatrix}$$
+
+\begin{multline}
+\int_{-\infty}^{\infty} \dots \int_{-\infty}^{\infty} \exp \left( -\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} A_{ij} x_i x_j + \sum_{k=1}^{n} B_k x_k \right) \\
+\mathrm{d}x_1 \dots \mathrm{d}x_n = \sqrt{\frac{(2\pi)^n}{\det \mathbf{A}}} \exp \left( \frac{1}{2} \mathbf{B}^{\mathsf{T}} \mathbf{A}^{-1} \mathbf{B} \right)
+\end{multline}
+
 \section{utug}
 
 \input{test.tex}
 
 toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia 
+\begin{wrapfigure}{r}{0.4\textwidth}
+\includegraphics{fiit}
+\end{wrapfigure}
 
 toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia toto je nova sekcia 
 
