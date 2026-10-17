@@ -1,0 +1,114 @@
+% Metódy inžinierskej práce
+
+\documentclass[10pt,twoside,slovak,a4paper]{article}
+
+\usepackage[slovak]{babel}
+%\usepackage[T1]{fontenc}
+\usepackage[IL2]{fontenc} % lepšia sadzba písmena Ľ než v T1
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{url} % príkaz \url na formátovanie URL
+\usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
+
+\usepackage{cite}
+%\usepackage{times}
+
+\usepackage{multirow}
+% \usepackage{tabularx}
+ \usepackage{tabularx}
+\usepackage{changepage}
+
+\usepackage{setspace}
+
+
+
+\renewcommand{\arraystretch}{1.4}
+\begin{document}
+
+
+\begin{table}[htbp]
+\centering
+\begin{adjustwidth}{-2.5cm}{-4.5cm}
+\begin{tabularx}{\dimexpr\textwidth+7 cm\relax}{@{} p{0.05\textwidth} p{0.4\textwidth} X @{}}
+
+\multicolumn{2}{@{}l}{VV- A1} & Základné informácie o projekte \\ \hline
+
+01 & Evidenčné číslo projektu & random cislo 09124789127489012471 \\
+02 & Dátum podania & TEXT TEXT TEXTTEXTTEXTTEXT TEXTTEXT TEXT TEXTTEXT TEXT TEXT \\
+03 & Názov projektu & TEXT \\
+04 & Akronym projektu & idk pivo ? xD \\
+05 & Odbor vedy a techniky & TEXT \\
+06 & Charakter výskumu & TEXT \\
+07 & Začiatok riešenia projektu & TEXT \\
+08 & Koniec riešenia projektu & TEXT \\ \hline
+
+09 & \multicolumn{2}{c}{Anotácia (max 2000 znakov)} \\ 
+\multicolumn{3}{p{1.55\textwidth}}{ANOTACIA ANOTACIA ANOTACIA ANOTACIA ANOTACIA ANOTACIA ANOTACIA ANOTACIA ANOTACIA ANOTACIA ANOTACIA} \\ \hline
+
+10 & Žiadateľská organizácia & STU ?? \\
+11 & Požadované finančné \newline prostriedky z APVV (v EUR) & xxxxxxxxxxxxxxxxxxxxxxxxxx \\
+12 & Spolufinacovanie proojektu \newline(v EUR) & xxxxxxxxxxxxxxxxxxxxxxxxxx \\
+13 & Celkové náklady na projetk \newline(v EUR) & xxxxxxxxxxxxxxxxxxxxxxxxxx \\
+
+
+\end{tabularx}
+\end{adjustwidth}
+\end{table}
+
+\clearpage
+
+\begin{table}[htbp]
+\centering
+\begin{adjustwidth*}{-2.5cm}{-4.5cm}
+\begin{tabularx}{\dimexpr\textwidth+7 cm\relax}{@{} p{0.05\textwidth} p{0.4\textwidth} X @{}}
+
+\multicolumn{2}{@{}l}{VV- A2} & Základné informácie o riešiteľských organizáciach \\ \hline
+\multicolumn{3}{p{1.55\textwidth}}{Žiadateľ} \\ \hline
+
+
+01 & Názov organizácie & text \\
+02 & Skrátený názov & TEXT TEXT TEXTTEXTTEXTTEXT TEXTTEXT TEXT TEXTTEXT TEXT TEXT \\
+03 & Adresa organizácie & TEXT \\
+04 & IČO & idk pivo ? xD \\
+05 & Príslušnosť k rezortu & TEXT \\
+06 & Forma hospodárenia & Veľmi zlá  \\ \hline
+07 & Kontaktná osoba & Martina Bublincová \\
+ & Telefón & +421 944 867 360 \\
+ & FAX & TEXT \\
+ & E-mail & xbublincova@stuba.sk \\ \hline
+08 & Štatutárny zástupca I & TEXT \\ 
+09 & Štatutárny zástupca II & text \\
+
+\end{tabularx}
+\end{adjustwidth*}
+\end{table}
+
+\clearpage
+
+\begin{table}[htbp]
+\centering
+\begin{adjustwidth*}{-2.5cm}{-4.5cm}
+\begin{tabularx}{\dimexpr\textwidth+7 cm\relax}{@{} p{0.05\textwidth} p{0.4\textwidth} X X @{}}
+
+\multicolumn{2}{@{}l}{VV- A3} & \multicolumn{1}{c}{Zoznam riešiteľov} \\ \hline
+\multicolumn{3}{p{1.55\textwidth}}{Žiadateľ} \\ \hline
+
+
+\multicolumn{2}{@{}l}{01} & Zoznam zamestnancov priamo sa podieľajúcich na riešení projektu \\ \hline
+02 & Skrátený názov & TEXT TEXT TEXTTEXTTEXTTEXT TEXTTEXT TEXT TEXTTEXT TEXT TEXT \\
+03 & Adresa organizácie & TEXT \\
+04 & IČO & idk pivo ? xD \\
+05 & Príslušnosť k rezortu & TEXT \\
+06 & Forma hospodárenia & Veľmi zlá  \\ \hline
+07 & Kontaktná osoba & Martina Bublincová \\
+ & Telefón & +421 944 867 360 \\
+ & FAX & TEXT \\
+ & E-mail & xbublincova@stuba.sk \\ \hline
+08 & Štatutárny zástupca I & TEXT \\ 
+09 & Štatutárny zástupca II & text \\
+
+\end{tabularx}
+\end{adjustwidth*}
+\end{table}
+
+\end{document}
